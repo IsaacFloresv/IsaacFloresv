@@ -20,19 +20,18 @@ Isaac Flores
 Este documento busca externar los siguientes puntos sobre mi como desarrollador:
 
 Proyectos en los que estoy trabajando en este momento:
-
--	Mejora del Proyecto Dropcase,
--	Cambio a tegnologias Web de proyectos que desarrolle para Desktop
+•	Mejora del Proyecto Dropcase,
+•	Cambio a tegnologias Web de proyectos que desarrolle para Desktop
 
 Intereses:
--	👫 Mi Esposa es mi mayor interes,
--	💻 Desarrollo de software,
--	📖 Leer,
--	🎸 Guitarra,
--	🚶‍♂️ Caminar,
--	⚡ Electronica,
--	📺 Ver television
-- 🌐 Navegar en internet
+•	👫 Mi Esposa es mi mayor interes,
+•	💻 Desarrollo de software,
+•	📖 Leer,
+•	🎸 Guitarra,
+•	🚶‍♂️ Caminar,
+•	⚡ Electronica,
+•	📺 Ver television
+• 🌐 Navegar en internet
 
 Tecnologías que estás aprendiendo:
 •	Python
@@ -50,5 +49,6 @@ Tecnologías que estás aprendiendo:
 •	React.js,
 •	Flux,
 •	SCRUM
+
 Linkedin: https://www.linkedin.com/in/Isaacfloresv
 
