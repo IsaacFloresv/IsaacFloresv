@@ -19,7 +19,7 @@ Isaac Flores
 
 Este documento busca externar los siguientes puntos sobre mi como desarrollador:
 
-proyectos en los que estás trabajando en este momento:
+Proyectos en los que estoy trabajando en este momento:
 
 -	Mejora del Proyecto Dropcase,
 -	Cambio a tegnologias Web de proyectos que desarrolle para Desktop
