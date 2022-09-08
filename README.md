@@ -14,3 +14,40 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Isaac Flores
+
+Este documento busca externar los siguientes puntos sobre mi como desarrollador:
+
+proyectos en los que estás trabajando en este momento:
+
+-	Mejora del Proyecto Dropcase,
+-	Cambio a tegnologias Web de proyectos que desarrolle para Desktop
+
+Intereses:
+-	👫 Mi Esposa es mi mayor interes,
+-	💻 Desarrollo de software,
+-	📖 Leer,
+-	🎸 Guitarra,
+-	🚶‍♂️ Caminar,
+-	⚡ Electronica,
+-	📺 Ver television
+- 🌐 Navegar en internet
+Tecnologías que estás aprendiendo:
+•	Python
+•	Bootstrap
+•	Node.js
+•	Flask.js
+•	SQL
+•	SQLAlchemy,
+•	MySQL,
+•	Postgress API's,
+•	JavaScript
+•	HTML5/CSS3,
+•	GIT/Github,
+•	API's,
+•	React.js,
+•	Flux,
+•	SCRUM
+Linkedin: https://www.linkedin.com/in/Isaacfloresv
+
