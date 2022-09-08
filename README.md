@@ -48,7 +48,27 @@ Tecnologías que estás aprendiendo:
 •	API's,
 •	React.js,
 •	Flux,
-•	SCRUM
+•	SCRUM,
+• Heroku,
+• Markdown, 
+• Use Stories, 
+• Data-Structures, 
+• Data-Modeling, 
+• REST, 
+• MVC, 
+• Programación orientada a objetos, 
+• DOM.
+
+Tecnologías que estoy aprendiendo:
+• Unit testing, 
+• jQuery, 
+• Gatsby.js, 
+• SSR, 
+• AWS, 
+• Firbase, 
+• WordPress, 
+• React Native,
+• CiberSeguridad
 
 Linkedin: https://www.linkedin.com/in/Isaacfloresv
 
