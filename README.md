@@ -33,6 +33,7 @@ Intereses:
 -	⚡ Electronica,
 -	📺 Ver television
 - 🌐 Navegar en internet
+
 Tecnologías que estás aprendiendo:
 •	Python
 •	Bootstrap
