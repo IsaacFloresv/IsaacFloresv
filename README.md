@@ -33,7 +33,7 @@ Intereses:
 •	📺 Ver television
 • 🌐 Navegar en internet
 
-Tecnologías que estás aprendiendo:
+Tecnologías utilizadas:
 •	Python
 •	Bootstrap
 •	Node.js
