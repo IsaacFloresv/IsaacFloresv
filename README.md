@@ -71,5 +71,5 @@ Tecnologías que estoy aprendiendo:
 • CiberSeguridad
 
 Linkedin: https://www.linkedin.com/in/Isaacfloresv
-Email: isaacfloresv@gmail.com
+Email: isaacfloresva@gmail.com
 
